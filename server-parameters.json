@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Project02-PhuongNTM18"
+    },
+    {
+        "ParameterKey": "InstanceTypeParameter",
+        "ParameterValue": "t3.medium"
+    },
+    {
+        "ParameterKey": "ServerAMIId",
+        "ParameterValue": "ami-09d56f8956ab235b3"
+    }
+]
